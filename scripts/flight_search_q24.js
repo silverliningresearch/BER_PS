@@ -28,20 +28,6 @@ function load_flight_q24() {
     flightListQ24 = JSON.parse(arrivalDomesticFlightList);
   }
 
-  //this code is not relevant any more as the time in the flights list is local time
-/*   for (i = 0; i < flightListQ24.length; i++) {
-    let flight = flightListQ24[i];
-    //add one more hour to change from UTC to GMT
-    var first_part = flight.Show.substring(0,9);
-    var third_part = flight.Show.substring(14,flight.Show.lenght);
-    var dhour_int = parseInt(flight.Show.substring(9,11)) + 1;
-    var dhour = "0" + dhour_int;
-    dhour = dhour.substring(dhour.length-2,dhour.length);
-    var dminutes = flight.Show.substring(12,14);
-    var dtime = dhour + ":" + dminutes;
-    flight.Show = first_part + dtime + third_part;
-  } */
-
 }
 
 function search_flight_q24() {
