@@ -67,11 +67,23 @@ function notDeparted(flight_time) {
 }
 
 function prepareInterviewData() {
-  quota_data = JSON.parse(airport_airline_quota);
+  var quota_data_temp = JSON.parse(airport_airline_quota);
   var interview_data_temp  = JSON.parse(interview_data_raw);
   var departures_flight_list_temp  = JSON.parse(departuresFlightList);
 
   initCurrentTimeVars();
+
+  //get quota data
+  quota_data = [];
+  quota_data.length = 0;
+  for (i = 0; i < quota_data_temp.length; i++) {
+    var quota_month =  quota_data_temp[i].Month + "-"  + quota_data_temp[i].Year; 
+    if (quota_month== currentMonth)
+    {
+      quota_data.push(quota_data_temp[i]);
+      }
+  }
+
   //get relevant interview data
   //empty the list
   interview_data = [];
@@ -101,7 +113,7 @@ function prepareInterviewData() {
     }
   }
   //prepare flight list
-    //empty the list
+  //empty the list
   today_flight_list = [];
   today_flight_list.length = 0;
 
@@ -139,7 +151,7 @@ function prepareInterviewData() {
   }
 
   //add quota data
-    //empty the list
+  //empty the list
   daily_plan_data = [];
   daily_plan_data.length = 0;
   
