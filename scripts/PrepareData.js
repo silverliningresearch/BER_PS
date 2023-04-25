@@ -81,7 +81,7 @@ function prepareInterviewData() {
     if (quota_month== currentMonth)
     {
       quota_data.push(quota_data_temp[i]);
-      }
+    }
   }
 
   //get relevant interview data
