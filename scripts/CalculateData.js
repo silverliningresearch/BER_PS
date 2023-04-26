@@ -86,6 +86,10 @@ function CalculateAirportAirLineReport() {
       row.Priority = 1;
     }
   }
+
+  // console.log("interview_data: ", interview_data);
+  // console.log("daily_plan_data: ", daily_plan_data);
+  // console.log("quota_data: ", quota_data);
 }
 
 function getDOOP(date) //"07-02-2023"
