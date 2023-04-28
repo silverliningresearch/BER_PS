@@ -30,11 +30,14 @@ function initCurrentTimeVars() {
   currentMonth =[month,year].join('-')
   currentDate = [day, month,year].join('-');
   //return [day, month,year].join('-');
-    //return [day, month,year].join('-');
   if (document.getElementById('year_month') && document.getElementById('year_month').value.length > 0)
   {
-    currentMonth=document.getElementById('year_month').value;
+    if (document.getElementById('year_month').value != "current-month")
+    {
+      currentMonth = document.getElementById('year_month').value;
+    }
   }
+  console.log("currentMonth: ", currentMonth);
 }
 
 function isCurrentMonth(interviewEndDate)
