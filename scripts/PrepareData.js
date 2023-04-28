@@ -37,7 +37,31 @@ function initCurrentTimeVars() {
       currentMonth = document.getElementById('year_month').value;
     }
   }
-  console.log("currentMonth: ", currentMonth);
+   console.log("currentMonth: ", currentMonth);
+
+   switch(currentMonth) {
+    case "01-2023":
+    case "02-2023":
+    case "03-2023":                  
+    case "04-2023":
+      total_quota = 2000;
+      break;
+    case "05-2023":
+    case "06-2023":
+    case "07-2023":
+    case "08-2023":
+    case "09-2023":      
+    case "10-2023":          
+      total_quota = 2500;
+      break;
+    case "11-2023":          
+    case "12-2023":              
+      total_quota = 2000;
+      break;
+    default:
+      total_quota = 2000;
+      break;
+  }
 }
 
 function isCurrentMonth(interviewEndDate)
