@@ -37,6 +37,23 @@ function load_flight_q3() {
   flightListQ3 = JSON.parse(departuresFlightList);
 }
 
+
+function notDeparted_flight_search(flight_time) {
+  var current_time = new Date().toLocaleString('de-DE', { timeZone: 'Europe/Berlin', hour12: false});
+  //15:13:27
+  var current_time_value  = current_time.substring(current_time.length-8,current_time.length-6) * 60;
+  current_time_value += current_time.substring(current_time.length-5,current_time.length-3)*1;
+
+  //Time: 0805    
+  var flight_time_value = flight_time.substring(0,2) * 60 + flight_time.substring(2,4)*1;
+  
+  //plus  4 hour
+  flight_time_value = flight_time_value + 240;
+
+  var result = (flight_time_value > current_time_value);
+  return (result);
+}
+
 function search_flight_q3() {
   var input = document.getElementById('inputFlightCodeQ3ID').value;
   var searchList = document.getElementById('flightSearchList');
@@ -51,7 +68,9 @@ function search_flight_q3() {
   for (i = 0; i < flightListQ3.length; i++) {
     let flight = flightListQ3[i];
 
-    if (today == flight.Date) { 
+    if ((today == flight.Date) 
+        && notDeparted_flight_search(flight.Time)) //today flight && departure{ 
+    {      
       if (flight.Show.toLowerCase().includes(input)) {
         const elem = document.createElement("option");
         elem.value = flight.Show;
