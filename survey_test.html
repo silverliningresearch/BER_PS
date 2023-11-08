@@ -71,6 +71,15 @@
 
     <script>
         window.addEventListener('load', function () {
+        var current_url = window.location.href;
+
+        if (current_url.includes("?l=")) {
+          var new_url = current_url.substring(0, current_url.length - 5)
+          location.assign(new_url);
+          console.log("current_url: ", current_url);
+          console.log("new_url: ", new_url);
+        }
+        
         setTimeout(() => {
           const googleMapsHandler = () => {
             console.log("Current Page Index: ", api.fn.getCurrentPageIndex() );
@@ -113,5 +122,6 @@
         });
       });
     </script>
+
 </body>
 </html>
