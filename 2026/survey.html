@@ -6,26 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>BER Passenger Survey</title>
 	<link rel="icon" type="image/x-icon" href="images/favicon.ico">
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
-    <link
-      rel="stylesheet"
-      href="https://survalyzereu.blob.core.windows.net/public/assets/font-awesome.css"
-    />
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="https://survalyzereu.blob.core.windows.net/public/assets/dx.common.css"
-    />
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="https://survalyzereu.blob.core.windows.net/public/assets/dx.light.css"
-    />
-    <link
-      href="https://survalyzer.survalyzer.eu/assets/themes/default/rt-theme.css"
-      rel="stylesheet"
-      type="text/css"
-    />
+ 
+    <link rel="stylesheet" type="text/css" href="https://files.survalyzer.eu/public/dependency/fontawesome-free/v5/css/all.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://files.survalyzer.eu/public/dependency/devextreme/latest/css/dx.light.css" />
+    <link rel="stylesheet" type="text/css" href="https://files.survalyzer.eu/public/dependency/styleguide/latest/assets/default/rt-theme.min.css" />
+
 
     <link href="css/map-search-box.css" rel ="stylesheet" type="text/css" />
     <link href="css/postal-code-search-box.css" rel ="stylesheet" type="text/css" />
@@ -36,9 +21,11 @@
       surveyhash="bikbwdurzb"
       tenant="silverlining"
     ></survalyzer-survey>
-
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://survalyzer.survalyzer.eu/assets/survalyzer-survey.js"></script>
+
+    <script src="https://files.survalyzer.eu/public/dependency/jquery/latest/jquery.min.js"></script>
+    <script src="https://files.survalyzer.eu/public/dependency/bootstrap/v4/js/bootstrap.bundle.min.js"></script>
+    <script src="https://files.survalyzer.eu/public/dependency/embedded/release/survalyzer-survey.js"></script>
 
     <script src="search_list/postal_code_Czech.js"></script>
     <script src="search_list/postal_Code_Germany.js"></script>
@@ -97,35 +84,35 @@
               hidePostalCodeSection_q6();
             }
 
-            if (api.fn.getCurrentPageIndex() === 27) { //Flight arrival: 25==>27
+            if (api.fn.getCurrentPageIndex() === 25) { //Flight arrival: 27==>25
               showFlightCodeSection_q24() ;
             } else {
               hideFlightCodeSection_q24();
             }
 
-            if (api.fn.getCurrentPageIndex() === 39) { //postal code ADV_6_3: 37==>39
-              showPostalCodeSection_ADV_6_3();
-            } else {
-              hidePostalCodeSection_ADV_6_3();
-            }
+            // if (api.fn.getCurrentPageIndex() === 39) { //postal code ADV_6_3: 37==>39
+            //   showPostalCodeSection_ADV_6_3();
+            // } else {
+            //   hidePostalCodeSection_ADV_6_3();
+            // }
             
-            if (api.fn.getCurrentPageIndex() === 42) { //postal code q27: 40==>42
+            if (api.fn.getCurrentPageIndex() === 40) { //postal code q27: 42==>40
               showPostalCodeSection_q27() ;
             } else {
               hidePostalCodeSection_q27();
             }
 
-            if (api.fn.getCurrentPageIndex() === 46) { //postal code q29: 44==>46
+            if (api.fn.getCurrentPageIndex() === 44) { //postal code q29: 46==>44
               showPostalCodeSection_q29() ;
             } else {
               hidePostalCodeSection_q29();
             }
 
             switch(api.fn.getCurrentPageIndex() ) {
-              case 41: //39==>41
+              case 39: //41==>39
                 showGoogleMaps("Q27");
                 break;
-              case 45:      //postal code q29 //43==>45
+              case 43:      //postal code q29: 45>>43
                 showGoogleMaps("Q29");
                 break;
               default:
