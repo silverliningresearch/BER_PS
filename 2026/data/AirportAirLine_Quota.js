@@ -29814,6 +29814,746 @@
   "Quota": 11,
   "Year": "2026",
   "Month": "02"
+ },
+
+
+  {
+  "Airport_Airline": "ADB - Sun Express",
+  "Quota": 7,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "AGP - Eurowings",
+  "Quota": 5,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "AGP - Ryanair",
+  "Quota": 8,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "AGP - easyJet Europe",
+  "Quota": 8,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "ALC - Ryanair",
+  "Quota": 7,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "AMM - Royal Jordanian",
+  "Quota": 4,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "AMS - KLM Royal Dutch Airlines",
+  "Quota": 47,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "ARN - Eurowings",
+  "Quota": 5,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "ARN - Norwegian Air Sweden AOC",
+  "Quota": 5,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "ARN - SAS Scandinavian Airlines System",
+  "Quota": 14,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "ATH - Aegean Airlines",
+  "Quota": 18,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "ATH - SKY Express (Greece)",
+  "Quota": 4,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "AYT - Pegasus Airlines",
+  "Quota": 6,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "AYT - Sun Express",
+  "Quota": 12,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "BCN - Ryanair",
+  "Quota": 12,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "BCN - Vueling Airlines",
+  "Quota": 17,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "BCN - easyJet Europe",
+  "Quota": 7,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "BEG - Air Serbia",
+  "Quota": 6,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "BEG - Wizz Air",
+  "Quota": 5,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "BEY - SUNDAIR",
+  "Quota": 5,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "BGY - Ryanair",
+  "Quota": 14,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "BLQ - Ryanair",
+  "Quota": 6,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "BRI - Ryanair",
+  "Quota": 4,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "BRS - easyJet UK",
+  "Quota": 5,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "BRU - Brussels Airlines",
+  "Quota": 24,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "BSL - easyJet Europe",
+  "Quota": 6,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "BSL - easyJet Switzerland",
+  "Quota": 8,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "BUD - Ryanair",
+  "Quota": 7,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "BUD - Wizz Air",
+  "Quota": 10,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "CAI - Egypt Air",
+  "Quota": 9,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "CDG - Air France",
+  "Quota": 36,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "CDG - easyJet Europe",
+  "Quota": 14,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "CGN - Eurowings",
+  "Quota": 25,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "CPH - Norwegian Air Sweden AOC",
+  "Quota": 8,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "CPH - SAS Scandinavian Airlines System",
+  "Quota": 22,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "CPH - easyJet Europe",
+  "Quota": 8,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "CTA - Ryanair",
+  "Quota": 6,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "DOH - Qatar Airways",
+  "Quota": 44,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "DUB - Aer Lingus",
+  "Quota": 11,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "DUB - Ryanair",
+  "Quota": 16,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "DUS - Eurowings",
+  "Quota": 23,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "DWC - Eurowings",
+  "Quota": 5,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "DXB - Condor",
+  "Quota": 7,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "DXB - Eurowings",
+  "Quota": 7,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "EDI - Ryanair",
+  "Quota": 6,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "EDI - easyJet UK",
+  "Quota": 5,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "EWR - United Airlines",
+  "Quota": 16,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "FAO - Ryanair",
+  "Quota": 5,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "FCO - Ryanair",
+  "Quota": 14,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "FCO - easyJet Europe",
+  "Quota": 10,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "FNC - easyJet Europe",
+  "Quota": 7,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "FRA - Condor",
+  "Quota": 22,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "FRA - Lufthansa",
+  "Quota": 80,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "FRA - Lufthansa City Airlines",
+  "Quota": 14,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "GVA - easyJet Europe",
+  "Quota": 8,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "HEL - Finnair",
+  "Quota": 23,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "HRG - Air Cairo",
+  "Quota": 6,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "HRG - Condor",
+  "Quota": 8,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "HRG - Eurowings",
+  "Quota": 4,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "HRG - easyJet Europe",
+  "Quota": 5,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "IST - Turkish Airlines",
+  "Quota": 58,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "KEF - Icelandair",
+  "Quota": 7,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "LCA - easyJet Europe",
+  "Quota": 4,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "LCY - British Airways",
+  "Quota": 15,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "LGW - easyJet Europe",
+  "Quota": 15,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "LGW - easyJet UK",
+  "Quota": 6,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "LHR - British Airways",
+  "Quota": 52,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "LIN - easyJet Europe",
+  "Quota": 13,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "LIS - Ryanair",
+  "Quota": 7,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "LIS - TAP Air Portugal",
+  "Quota": 15,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "LPA - Eurowings",
+  "Quota": 6,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "LPA - Ryanair",
+  "Quota": 4,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "LPA - easyJet Europe",
+  "Quota": 4,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "LTN - easyJet UK",
+  "Quota": 6,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "LUX - Luxair",
+  "Quota": 5,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "MAD - IBERIA Express",
+  "Quota": 16,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "MAD - Ryanair",
+  "Quota": 6,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "MAN - Ryanair",
+  "Quota": 11,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "MAN - easyJet UK",
+  "Quota": 7,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "MUC - Lufthansa",
+  "Quota": 66,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "MXP - Ryanair",
+  "Quota": 8,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "NAP - easyJet Europe",
+  "Quota": 8,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "NCE - easyJet Europe",
+  "Quota": 6,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "OPO - Ryanair",
+  "Quota": 5,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "ORY - Transavia France",
+  "Quota": 15,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "ORY - easyJet Europe",
+  "Quota": 14,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "OSL - Norwegian Air Shuttle AOC",
+  "Quota": 16,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "OTP - Ryanair",
+  "Quota": 5,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "OTP - Wizz Air Malta",
+  "Quota": 5,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "PEK - Hainan Airlines",
+  "Quota": 12,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "PFO - Ryanair",
+  "Quota": 4,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "PMI - Eurowings",
+  "Quota": 14,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "PMI - Ryanair",
+  "Quota": 9,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "PMI - easyJet Europe",
+  "Quota": 11,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "PSA - Ryanair",
+  "Quota": 4,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "RAK - Ryanair",
+  "Quota": 4,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "RIX - Air Baltic",
+  "Quota": 9,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "RMO - Wizz Air Malta",
+  "Quota": 7,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "SAW - Ajet",
+  "Quota": 10,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "SAW - Pegasus Airlines",
+  "Quota": 29,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "SKG - Ryanair",
+  "Quota": 5,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "SKP - Wizz Air",
+  "Quota": 6,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "SOF - Ryanair",
+  "Quota": 7,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "STN - Ryanair",
+  "Quota": 25,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "STR - Eurowings",
+  "Quota": 28,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "SZG - Eurowings",
+  "Quota": 5,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "TFS - Eurowings",
+  "Quota": 5,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "TFS - Ryanair",
+  "Quota": 8,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "TFS - easyJet Europe",
+  "Quota": 8,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "TIA - Wizz Air Malta",
+  "Quota": 10,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "TLV - Blue Bird Airways",
+  "Quota": 6,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "TLV - EL AL - Israel Airlines",
+  "Quota": 6,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "TLV - Israir",
+  "Quota": 5,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "TSF - Ryanair",
+  "Quota": 4,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "VAR - Wizz Air",
+  "Quota": 5,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "VCE - easyJet Europe",
+  "Quota": 5,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "VIE - Austrian Airlines",
+  "Quota": 53,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "VLC - Ryanair",
+  "Quota": 5,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "VLC - easyJet Europe",
+  "Quota": 4,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "WAW - LOT Polish Airlines",
+  "Quota": 10,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "ZRH - Eurowings",
+  "Quota": 17,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "ZRH - Swiss",
+  "Quota": 46,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "ZRH - easyJet Europe",
+  "Quota": 13,
+  "Year": "2026",
+  "Month": "03"
  }
 
 ]    
